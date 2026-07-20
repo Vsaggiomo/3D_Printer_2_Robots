@@ -9,7 +9,7 @@ This repository is linked to the review paper:
 ## Purpose of this Repository
 The world of open-source hardware and 3D printer hacking is moving fast. While the original paper provides a comprehensive overview of the field up to its publication, this repository serves as a **living, community-driven database**. It is designed to keep track of new 3D printer hacks, modifications, and repurposed systems used as lab equipment or robots in the future.
 
-![a 3D printer? Th at's just a robot!!!](figure1.jpg)
+![a 3D printer? That's just a robot!!!](figure1.jpg)
 
 ## The Database
 The complete and updated list of 3D printer modifications can be found here:

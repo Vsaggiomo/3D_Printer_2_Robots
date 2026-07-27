@@ -37,6 +37,6 @@ Below is a curated, community-updated list of modified 3D printers in the chemic
 | Ender-3-based-pipetting robot | Creality Ender-3 Pro | Automated liquid handling | Pipette holder printhead replacement | 2024 | [60](https://doi.org/10.1021/acs.jchemed.3c00855) |
 | PALH | Creality Ender-3 | Automated liquid handling | Stepper motor controlled custom pipette printhead replacement | 2025 | [61](https://doi.org/10.1016/j.slast.2024.100239) |
 | Ender-3-based syringe pumps | Creality Ender-3 | Open-source hardware syringe pump system | 3D printer deconstructed & components reused | 2021 | [62](https://doi.org/10.1016/j.ohx.2021.e00219) |
-| 3D-Printer-based lab material handler | Prusa i3 | Handling of magnetic structures | Magnetic 'hand' add-on | 2017 | [67] |
-| Ultrasonic immersion setup | VORON VO | Material characterization | Immersion tank & transducer holder | 2025 | [68] |
-| Otto validator | Creality Ender-3 Pro | Franz diffusion cell autosampler | Reversible add-on of peristaltic pumps, vial holders, & deposition needles | 2025 | [69] |
+| 3D-Printer-based lab material handler | Prusa i3 | Handling of magnetic structures | Magnetic 'hand' add-on | 2017 | [67](https://doi.org/10.1021/acs.analchem.7b02758) |
+| Ultrasonic immersion setup | VORON VO | Material characterization | Immersion tank & transducer holder | 2025 | [68](https://doi.org/10.1121/10.0039221) |
+| Otto validator | Creality Ender-3 Pro | Franz diffusion cell autosampler | Reversible add-on of peristaltic pumps, vial holders, & deposition needles | 2025 | [69](https://doi.org/10.1016/j.xphs.2025.103837) |

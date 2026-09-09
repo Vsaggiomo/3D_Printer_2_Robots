@@ -1,6 +1,6 @@
 # 3D Printer Hacks & Modifications
 
-Below is a curated, community-updated list of modified 3D printers in the chemical and biological literature and their purposes. 
+Below is a curated, community-updated list of modified 3D printers in the chemical and biological literature and their purposes.
 
 *To add a new device to this list, please see the contribution guidelines in the [README.md](README.md).*
 
